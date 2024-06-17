@@ -2,10 +2,6 @@
 
 👋 Hello World!
 
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FGijsWerkman">
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGijsWerkman&label=Visitors&countColor=%23d9e3f0&style=flat-square" />
-</a>
-
 ## 🎓 Education
 
 **MScBA, Business Analytics & Management**  
@@ -77,3 +73,10 @@ Kalkar, Germany
         <img align="left" alt="LinkedIn" width="40px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
     </a>
 </div>
+
+<br><br>
+<br><br>
+
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FGijsWerkman">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGijsWerkman&label=Visitors&countColor=%23d9e3f0&style=flat-square" />
+</a>
