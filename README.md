@@ -2,6 +2,8 @@
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FGijsWerkman"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGijsWerkman&label=Visitors&countColor=%23d9e3f0&style=flat-square" /></a>
 
+## About me
+
 <!--
 **GijsWerkman/GijsWerkman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
