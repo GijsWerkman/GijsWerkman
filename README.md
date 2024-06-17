@@ -28,7 +28,7 @@ Arnhem, Netherlands
 ## 👨‍💻 Experience
 
 **Shopper Analyst Intern**  
-[JDE](https://www.jdepeets.com/) · Feb 2024 - Present · 5 months  
+[JDE Peet's](https://www.jdepeets.com/) · Feb 2024 - Present · 5 months  
 Utrecht, Netherlands
 
 **Performance Marketeer**  
