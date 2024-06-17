@@ -4,7 +4,7 @@
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FGijsWerkman"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGijsWerkman&label=Visitors&countColor=%23d9e3f0&style=flat-square" /></a>
 
-## Education 🎓
+## 🎓 Education
 
 **MScBA, Business Analytics & Management**  
 [Rotterdam School of Management](https://www.rsm.nl/) · 2023 - 2024  
@@ -27,7 +27,7 @@ Yogyakarta, Indonesia
 Arnhem, Netherlands
 
 
-## Experience 👨‍💻
+## 👨‍💻 Experience
 
 **Shopper Analyst Intern**  
 [JDE](https://www.jdepeets.com/) · Feb 2024 - Present · 5 months  
@@ -45,7 +45,7 @@ Amsterdam, Netherlands
 [Wunderland Kalkar](https://www.wunderlandkalkar.eu/) · Sep 2019 - Jan 2020 · 5 months  
 Kalkar, Germany
 
-## Tech stack
+## 🛠️ Tech stack
 
 <div style="display: inline-block;">
     <a href="https://www.r-project.org/" target="_blank"> 
