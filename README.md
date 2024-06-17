@@ -8,7 +8,7 @@
 👨‍💻 I have experience coding in R, Python and SQL, and am interested in further developing my programming skills.
 
 ## Find me on
-<p align="center">
+<p align="left">
     <a href="https://github.com/GijsWerkman/" style="margin-right: 20px;"> 
         <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="40" height="40"/>
     </a>
