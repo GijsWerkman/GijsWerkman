@@ -8,12 +8,12 @@
 👨‍💻 I have experience coding in R, Python and SQL, and am interested in further developing my programming skills.
 
 ## Find me on
-<p align = "center">
-    <a href="https://github.com/GijsWerkman/"> 
-    <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" with="40" height="40"/>
+<p align="center">
+    <a href="https://github.com/GijsWerkman/" style="margin-right: 10px;"> 
+    <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="40" height="40"/>
     </a>
-    <a href="https://www.linkedin.com/in/gijs-werkman/"> 
-    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" with="40" height="40"/>
+    <a href="https://www.linkedin.com/in/gijs-werkman/" style="margin-left: 10px;"> 
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="40" height="40"/>
     </a>
 </p>
 
