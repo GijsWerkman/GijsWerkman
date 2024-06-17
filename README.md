@@ -9,18 +9,13 @@
 
 ## Find me on
 <p align="center">
-    <div style="display: inline-block; margin-right: 20px;">
-        <a href="https://github.com/GijsWerkman/"> 
-            <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="40" height="40"/>
-        </a>
-    </div>
-    <div style="display: inline-block; margin-left: 20px;">
-        <a href="https://www.linkedin.com/in/gijs-werkman/"> 
-            <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="40" height="40"/>
-        </a>
-    </div>
+    <a href="https://github.com/GijsWerkman/" style="margin-right: 20px;"> 
+        <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="40" height="40"/>
+    </a>
+    <a href="https://www.linkedin.com/in/gijs-werkman/" style="margin-left: 20px;"> 
+        <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="40" height="40"/>
+    </a>
 </p>
-
 
 <!--
 **GijsWerkman/GijsWerkman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
