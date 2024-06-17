@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Gijs!
+
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FGijsWerkman"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGijsWerkman&label=Visitors&countColor=%23263759" /></a>
 
 <!--
 **GijsWerkman/GijsWerkman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
