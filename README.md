@@ -1,4 +1,6 @@
-## Hi there 👋, I'm Gijs!
+## Gijs Werkman
+
+👋 Hello World!
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FGijsWerkman"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGijsWerkman&label=Visitors&countColor=%23d9e3f0&style=flat-square" /></a>
 
