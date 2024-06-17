@@ -9,10 +9,10 @@
 
 ## Find me on
 <p align="center">
-    <a href="https://github.com/GijsWerkman/" style="margin-right: 20px;"> 
+    <a href="https://github.com/GijsWerkman/" style="margin-right: 40px;"> 
     <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="40" height="40"/>
     </a>
-    <a href="https://www.linkedin.com/in/gijs-werkman/" style="margin-left: 20px;"> 
+    <a href="https://www.linkedin.com/in/gijs-werkman/" style="margin-left: 40px;"> 
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="40" height="40"/>
     </a>
 </p>
