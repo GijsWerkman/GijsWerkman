@@ -49,7 +49,7 @@
   - <b>Shopper Analyst Intern</b> - <b>Feb 2024 - Present</b>
 - [KATO Group BV / Knivesandtools](https://knivesandtools.com/)
   - <b>Performance Marketeer</b> - <b>May 2021 - Jan 2024 </b>
-- [Philips](htttps://www.philips.com/)
+- [Philips](https://www.philips.com/)
   - <b>Marketing Insights & Analytics Intern</b> - <b>May 2021 - Jan 2024 </b>
 - [Wunderland Kalkar](https://www.wunderlandkalkar.eu/)
   - <b>Digital Marketing Internb> - <b>Sep 2019 - Jan 2020 </b>
