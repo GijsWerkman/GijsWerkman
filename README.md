@@ -45,8 +45,8 @@
  </table>
 
 ## Experience 👨‍💻
-- [JDE Peet's](https://www.jdepeets.com/)
-  - <b>Shopper Analyst Intern</b> - <b>Feb 2024 - Present</b>
+- <b>Shopper Analyst Intern</b> at [JDE Peet's](https://www.jdepeets.com/)
+  - <b>Feb 2024 - Present</b>
 - [KATO Group BV / Knivesandtools](https://knivesandtools.com/)
   - <b>Performance Marketeer</b> - <b>May 2021 - Jan 2024 </b>
 - [Philips](https://www.philips.com/)
