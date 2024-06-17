@@ -45,29 +45,32 @@ Amsterdam, Netherlands
 [Wunderland Kalkar](https://www.wunderlandkalkar.eu/) · Sep 2019 - Jan 2020 · 5 months  
 Kalkar, Germany
 
+## Languages & tools
+
+<div style="display: inline-block;">
+    <a href="https://www.r-project.org/" target="_blank"> 
+        <img align="left" alt="R" width="40px" src="https://www.r-project.org/logo/Rlogo.svg"/>
+    </a>
+    <a href="https://www.python.org/" target="_blank"> 
+        <img align="left" alt="Python" width="40px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/>
+    </a>
+    <a href="https://www.w3.org/standards/sql/" target="_blank"> 
+        <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank"> 
+        <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+    </a>
+</div>
+<br />
 
 
 ## Find me on
-<p align="left">
+
+<div style="display: inline-block;">
     <a href="https://github.com/GijsWerkman/" style="margin-right: 20px;"> 
-        <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="40" height="40"/>
+        <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
     </a>
     <a href="https://www.linkedin.com/in/gijs-werkman/" style="margin-left: 20px;"> 
-        <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="40" height="40"/>
+        <img align="left" alt="LinkedIn" width="40px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
     </a>
-</p>
-
-<!--
-**GijsWerkman/GijsWerkman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
