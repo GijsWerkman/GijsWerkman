@@ -45,7 +45,7 @@ Amsterdam, Netherlands
 [Wunderland Kalkar](https://www.wunderlandkalkar.eu/) · Sep 2019 - Jan 2020 · 5 months  
 Kalkar, Germany
 
-## Languages & tools
+## Tech stack
 
 <div style="display: inline-block;">
     <a href="https://www.r-project.org/" target="_blank"> 
