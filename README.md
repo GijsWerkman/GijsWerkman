@@ -4,8 +4,45 @@
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FGijsWerkman"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGijsWerkman&label=Visitors&countColor=%23d9e3f0&style=flat-square" /></a>
 
-## About me
-🎓 I am currently rounding off my Master's degree in Business Analytics and Management from Rotterdam School of Management, Erasmus University, and hold a Bachelor's degree in International Business from HAN University of Applied Sciences.
+## Education 🎓
+<table>
+  <tr>
+    <th>Course</th>
+    <th>School/University</th>
+    <th>Year of Passing</th>
+    <th>Score</th>
+  </tr>
+  <tr>
+    <td>MScBA, Business Analytics & Management</td>
+    <td><a href="https://www.rsm.nl/">Rotterdam School of Management</a></td>
+    <td>2024</td>
+    <td>8.5 (Current)</td>
+  </tr>
+  <tr>
+    <td>Pre-Master, International Business Administrationt</td>
+    <td><a href="https://www.rsm.nl/">Rotterdam School of Management</a></td>
+    <td>2023</td>
+    <td>7.7</td>
+  </tr>
+  <tr>
+    <td>BscBA, International Business</td>
+    <td><a href="https://www.hanuniversity.com/en/">HAN University of Applied Sciences</a></td>
+    <td>2021</td>
+    <td>7.6</td>
+  </tr>
+  <tr>
+    <td>BscBA, Minor/Exchange semester</td>
+    <td><a href="https://ugm.ac.id/en/">Universitas Gadjah Mada</a></td>
+    <td>2021</td>
+    <td>A-</td>
+  </tr>
+  <tr>
+    <td>Bilingual HAVO, Economics & Society</td>
+    <td><a href="https://lorentzlyceum.nl/">Lorentz Lyceum</a></td>
+    <td>2016</td>
+    <td>7</td>
+  </tr>
+ </table>
 
 👨‍💻 I have experience coding in R, Python and SQL, and am interested in further developing my programming skills.
 
