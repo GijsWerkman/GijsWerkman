@@ -5,47 +5,29 @@
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FGijsWerkman"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGijsWerkman&label=Visitors&countColor=%23d9e3f0&style=flat-square" /></a>
 
 ## Education 🎓
-<table>
-  <tr>
-    <th>Course</th>
-    <th>School/University</th>
-    <th>Year of Passing</th>
-    <th>Score</th>
-  </tr>
-  <tr>
-    <td>MScBA, Business Analytics & Management</td>
-    <td><a href="https://www.rsm.nl/">Rotterdam School of Management</a></td>
-    <td>2024</td>
-    <td>8.5 (Current)</td>
-  </tr>
-  <tr>
-    <td>Pre-Master, International Business Administrationt</td>
-    <td><a href="https://www.rsm.nl/">Rotterdam School of Management</a></td>
-    <td>2023</td>
-    <td>7.7</td>
-  </tr>
-  <tr>
-    <td>BscBA, International Business</td>
-    <td><a href="https://www.hanuniversity.com/en/">HAN University of Applied Sciences</a></td>
-    <td>2021</td>
-    <td>7.6</td>
-  </tr>
-  <tr>
-    <td>BscBA, Minor/Exchange semester</td>
-    <td><a href="https://ugm.ac.id/en/">Universitas Gadjah Mada</a></td>
-    <td>2021</td>
-    <td>A-</td>
-  </tr>
-  <tr>
-    <td>Bilingual HAVO, Economics & Society</td>
-    <td><a href="https://lorentzlyceum.nl/">Lorentz Lyceum</a></td>
-    <td>2016</td>
-    <td>7</td>
-  </tr>
- </table>
+
+**MScBA, Business Analytics & Management**  
+[Rotterdam School of Management](https://www.rsm.nl/) · 2023 - 2024  
+Rotterdam, Netherlands
+
+**Pre-Master, International Business Administration**  
+[Rotterdam School of Management](https://www.rsm.nl/) · 2022 - 2023  
+Rotterdam, Netherlands
+
+**BscBA, International Business**  
+[HAN University of Applied Sciences](https://www.hanuniversity.com/en/) · 2015 - 2021  
+Arnhem, Netherlands
+
+**BscBA, Minor/Exchange semester**  
+[Universitas Gadjah Mada](https://ugm.ac.id/en/) · 2018 
+Yogyakarta, Indonesia
+
+**Bilingual HAVO, Economics & Society**  
+[Lorentz Lyceum](https://lorentzlyceum.nl/) · 2010 - 2015  
+Arnhem, Netherlands
+
 
 ## Experience 👨‍💻
-
 
 **Shopper Analyst Intern**  
 [JDE](https://www.jdepeets.com/) · Feb 2024 - Present · 5 months  
