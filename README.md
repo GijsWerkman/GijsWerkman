@@ -8,7 +8,7 @@
 [Rotterdam School of Management](https://www.rsm.nl/) · 2023 - 2024  
 Rotterdam, Netherlands
 
-**Pre-Master, International Business Administration**  
+**Pre-master, International Business Administration**  
 [Rotterdam School of Management](https://www.rsm.nl/) · 2022 - 2023  
 Rotterdam, Netherlands
 
