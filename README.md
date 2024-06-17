@@ -45,14 +45,21 @@
  </table>
 
 ## Experience 👨‍💻
-- <b>Shopper Analyst Intern | [JDE Peet's](https://www.jdepeets.com/)</b>
-  - Feb 2024 - Present
-- <b>Performance Marketeer | [KATO Group BV / Knivesandtools](https://knivesandtools.com/)</b>
-  - May 2021 - Jan 2024
-- <b>Marketing Insights & Analytics Intern | [Philips](https://www.philips.com/)</b>
-  - May 2021 - Jan 2024
-- <b>Digital Marketing Intern | [Wunderland Kalkar](https://www.wunderlandkalkar.eu/)</b>
-  - Sep 2019 - Jan 2020
+- **Shopper Analyst Intern**
+  [JDE Peet's](https://www.jdepeets.com/)
+  \- Feb 2024 - Present
+
+- **Performance Marketeer**
+  [KATO Group BV / Knivesandtools](https://knivesandtools.com/)
+  \- May 2021 - Jan 2024
+
+- **Marketing Insights & Analytics Intern**
+  [Philips](https://www.philips.com/)
+  \- May 2021 - Jan 2024
+
+- **Digital Marketing Intern**
+  [Wunderland Kalkar](https://www.wunderlandkalkar.eu/)
+  \- Sep 2019 - Jan 2020
 
 ## Find me on
 <p align="left">
