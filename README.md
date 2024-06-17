@@ -19,7 +19,7 @@ Rotterdam, Netherlands
 Arnhem, Netherlands
 
 **BscBA, Minor/Exchange semester**  
-[Universitas Gadjah Mada](https://ugm.ac.id/en/) · 2018 
+[Universitas Gadjah Mada](https://ugm.ac.id/en/) · 2018  
 Yogyakarta, Indonesia
 
 **Bilingual HAVO, Economics & Society**  
