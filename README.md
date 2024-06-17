@@ -66,7 +66,7 @@ Kalkar, Germany
 <br />
 
 
-## Find me on
+## 👋 Find me on
 
 <div style="display: inline-block;">
     <a href="https://github.com/GijsWerkman/" style="margin-right: 20px;"> 
