@@ -1,6 +1,6 @@
 ## Gijs Werkman
 
-👋 Hello World!
+Hello World!
 
 ## 🎓 Education
 
@@ -51,7 +51,7 @@ Kalkar, Germany
 - Project management: Jira, SCRUM
 
 
-## 👋🏻 Connect with me
+## 👋 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/gijs-werkman/)
 
