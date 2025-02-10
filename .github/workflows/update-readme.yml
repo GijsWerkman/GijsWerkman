@@ -26,11 +26,8 @@ jobs:
 
       - name: Update README
         run: |
-          # Ensure the "Data Analyst" section always has the placeholder before updating
-          sed -i "s/[0-9]\+ months/<MONTHS>/g" README.md
-          
-          # Replace the placeholder with the updated months count (no bold)
-          sed -i "s/<MONTHS>/${MONTHS_DIFF}/g" README.md
+          # Only update the "Data Analyst" entry, leaving other roles untouched
+          sed -i "/\*\*Data Analyst\*\*/s/[0-9]\+ months/${MONTHS_DIFF} months/" README.md
 
       - name: Commit and push if changed
         run: |
