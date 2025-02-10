@@ -21,12 +21,12 @@ jobs:
         run: |
           START_DATE="2025-02-01"
           CURRENT_DATE=$(date +"%Y-%m-01")
-          MONTHS_DIFF=$(( ($(date -d "$CURRENT_DATE" +%s) - $(date -d "$START_DATE" +%s)) / 2592000 ))
+          MONTHS_DIFF=$(( ($(date -d "$CURRENT_DATE" +%s) - $(date -d "$START_DATE" +%s)) / 2592000 + 1 ))
           echo "MONTHS_DIFF=$MONTHS_DIFF" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          sed -i "s/{{MONTHS}}/${MONTHS_DIFF} months/g" README.md
+          sed -i "s/{{MONTHS}}/${MONTHS_DIFF}/g" README.md
 
       - name: Commit and push if changed
         run: |
