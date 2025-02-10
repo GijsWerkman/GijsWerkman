@@ -1,0 +1,34 @@
+Update README with Experience Duration
+
+on:
+  schedule:
+    - cron: "0 0 1 * *"  # Runs at midnight on the 1st of every month
+  workflow_dispatch:  # Allows manual runs
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Calculate months since start
+        id: calc
+        run: |
+          START_DATE="2025-02-01"
+          CURRENT_DATE=$(date +"%Y-%m-01")
+          MONTHS_DIFF=$(( ($(date -d "$CURRENT_DATE" +%s) - $(date -d "$START_DATE" +%s)) / 2592000 ))
+          echo "MONTHS_DIFF=$MONTHS_DIFF" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i "s/{{MONTHS}}/${MONTHS_DIFF} months/g" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Auto-update experience duration" || exit 0
+          git push
