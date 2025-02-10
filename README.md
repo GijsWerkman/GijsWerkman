@@ -27,6 +27,10 @@ Arnhem, Netherlands
 
 ## 👨‍💻 Experience
 
+- **Data Analyst**  
+[Belastingdienst](https://www.belastingdienst.nl/) · Feb 2025 - Present  
+Netherlands
+
 - **Shopper Analyst Intern**  
 [JDE Peet's](https://www.jdepeets.com/) · Feb 2024 - July 2024 · 6 months  
 Utrecht, Netherlands
