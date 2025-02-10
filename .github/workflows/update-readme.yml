@@ -26,7 +26,11 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i "s/{{MONTHS}}/${MONTHS_DIFF}/g" README.md
+          # Restore the placeholder before updating the months
+          sed -i "s/[0-9]\+ months/<MONTHS>/g" README.md
+          
+          # Replace the placeholder with the updated months count
+          sed -i "s/<MONTHS>/${MONTHS_DIFF} months/g" README.md
 
       - name: Commit and push if changed
         run: |
