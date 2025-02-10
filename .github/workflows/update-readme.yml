@@ -26,11 +26,11 @@ jobs:
 
       - name: Update README
         run: |
-          # Restore the placeholder before updating the months
+          # Ensure the "Data Analyst" section always has the placeholder before updating
           sed -i "s/[0-9]\+ months/<MONTHS>/g" README.md
           
           # Replace the placeholder with the updated months count
-          sed -i "s/<MONTHS>/${MONTHS_DIFF} months/g" README.md
+          sed -i "s/<MONTHS>/${MONTHS_DIFF}/g" README.md
 
       - name: Commit and push if changed
         run: |
@@ -39,6 +39,6 @@ jobs:
           git add README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update experience duration"
           
-          # Fetch latest changes to prevent push rejection
-          git pull --rebase origin main
+          # Fetch latest changes only if necessary
+          git pull --rebase origin main || echo "No changes to pull"
           git push
