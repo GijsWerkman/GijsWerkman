@@ -28,24 +28,25 @@ Arnhem, Netherlands
 ## 👨‍💻 Experience
 
 - **Data Analyst**  
-[Belastingdienst](https://www.belastingdienst.nl/) · Feb 2025 - Present · 1 months
+[Belastingdienst](https://www.belastingdienst.nl/) · Feb 2025 - Present · 1 months  
 Netherlands
 
 - **Shopper Analyst Intern**  
-[JDE Peet's](https://www.jdepeets.com/) · Feb 2024 - July 2024 · 1  
+[JDE Peet's](https://www.jdepeets.com/) · Feb 2024 - July 2024 · 6 months  
 Utrecht, Netherlands
 
 - **Performance Marketeer**  
-[KATO Group BV / Knivesandtools](https://knivesandtools.com/) · May 2021 - Jan 2024 · 2 years 1  
+[KATO Group BV / Knivesandtools](https://knivesandtools.com/) · May 2021 - Jan 2024 · 2 years 9 months  
 Apeldoorn, Netherlands
 
 - **Marketing Insights & Analytics Intern**  
-[Philips](https://www.philips.com/) · Aug 2020 - Feb 2021 · 1  
+[Philips](https://www.philips.com/) · Aug 2020 - Feb 2021 · 7 months  
 Amsterdam, Netherlands
 
 - **Digital Marketing Intern**  
-[Wunderland Kalkar](https://www.wunderlandkalkar.eu/) · Sep 2019 - Jan 2020 · 1  
+[Wunderland Kalkar](https://www.wunderlandkalkar.eu/) · Sep 2019 - Jan 2020 · 5 months  
 Kalkar, Germany
+
 
 ## 🛠️ Tech stack
 
