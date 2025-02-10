@@ -1,7 +1,12 @@
+name: Update README with Experience Duration
+
 on:
   schedule:
     - cron: "0 0 1 * *"  # Runs at midnight on the 1st of every month
   workflow_dispatch:  # Allows manual runs
+
+permissions:
+  contents: write  # Ensures GitHub Actions can update the README
 
 jobs:
   update-readme:
@@ -28,5 +33,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add README.md
-          git commit -m "Auto-update experience duration" || exit 0
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update experience duration"
           git push
