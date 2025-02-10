@@ -28,7 +28,7 @@ Arnhem, Netherlands
 ## 👨‍💻 Experience
 
 - **Data Analyst**  
-[Belastingdienst](https://www.belastingdienst.nl/) · Feb 2025 - Present · 1
+[Belastingdienst](https://www.belastingdienst.nl/) · Feb 2025 - Present · {{MONTHS}} months
 Netherlands
 
 - **Shopper Analyst Intern**  
